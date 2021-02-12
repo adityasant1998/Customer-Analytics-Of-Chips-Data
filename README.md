@@ -23,8 +23,11 @@ Data preparation and Customer analytics
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 Tasks:
 •	Examine transaction data – look for inconsistencies, missing data across the data set, outliers, correctly identified category items, numeric data across all tables. If you determine any anomalies make the necessary changes in the dataset and save it. Having clean data will help when it comes to your analysis. 
+
 •	Examine customer data – check for similar issues in the customer data, look for nulls and when you are happy merge the transaction and customer data together so it’s ready for the analysis ensuring you save your files along the way.
+
 •	Data analysis and customer segments – in your analysis make sure you define the metrics – look at total sales, drivers of sales, where the highest sales are coming from etc. Explore the data, create charts and graphs as well as noting any interesting trends and/or insights you find. These will all form part of our report to Julia. 
+
 •	Deep dive into customer segments – define your recommendation from your insights, determine which segments we should be targeting, if packet sizes are relative and form an overall conclusion based on your analysis. 
 
 
@@ -38,10 +41,6 @@ Potato chips Transaction of 1 year
 
 Customer Data for a particular region. This is based on overall behaviour of the customer.
  
-
-
-
-
 
 Problem Statement provided by Quantium : 
 We need to present a strategic recommendation to Julia that is supported by data which she can then use for the upcoming category review however to do so we need to analyse the data to understand the current purchasing trends and behaviours. The client is particularly interested in customer segments and their chip purchasing behaviour. Consider what metrics would help describe the customers’ purchasing behaviour.  
@@ -59,6 +58,5 @@ You will also want to derive extra features such as pack size and brand name fro
 As we are in the early stages of this analysis Zilinka has asked us to submit our initial findings, so please save your code as a .pdf file and upload it to unlock the model answer.
 
 Note: that this is an open-ended case study that can be approached in many ways. Model answer is in R. 
-
 
 Note : I have done the analysis in Python3 in a Jupyter Notebook. I have provided them in the folder.
