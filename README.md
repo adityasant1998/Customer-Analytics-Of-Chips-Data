@@ -1,8 +1,5 @@
 # Customer-Analytics-Of-Chips-Data
 
- 
-Data Analytics Virtual Experience Program
-1
 Data preparation and customer analytics
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 Practical skills you will gain from working on this module:
@@ -13,8 +10,6 @@ Data visualisation
 Data wrangling
  
 Programming
-
-Compare your work with real model solutions created by the Quantium team.
 
 Source : https://www.theforage.com/virtual-internships/prototype/NkaC7knWtjSbi6aYv/Data-Analytics
 
